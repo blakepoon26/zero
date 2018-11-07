@@ -1,0 +1,4 @@
+LABEL,PLATE,WELL,VALVE,VOLUME,FLOWRATE,DIRECTION,COMMENT
+?QUERY,,,,,,,Ensure that the magnets have been placed in the reactor.
+Clean,1,h03,1,900,10000,withdraw,Pull water to calibrate spectrometer.
+Clean,1,h04,1,900,10000,withdraw,Block reactor surfaces with blocking buffer (matches burn-in buffer).
